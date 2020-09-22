@@ -10,7 +10,7 @@ A model is required. I've included a link to a small model which is about 36 meg
 
 ## Installation
 
-1. git clone  https://github.com/c0debreaker/audio2text
+1. git clone git@github.com:c0debreaker/audio2text.git
 
 2. cd audio2text
 
