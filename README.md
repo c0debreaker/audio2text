@@ -1,5 +1,5 @@
 # audio2text
-This repo is meant as a guide for generating audio based on speech. This is different from extracting subtitles or more commonly known as closed captions. The `vosk` module requires the input audio file to be in WAV format pcm mono. The output generates a file in json format. It is not perfect but it works.
+This repo is meant as a guide for generating text based from audio in a wav file. This is different from extracting subtitles or more commonly known as closed captions. The `vosk` module requires the input audio file to be in WAV format pcm mono. The output generates a file in json format. It is not perfect but it works.
 
 A model is required. I've included a link to a small model which is about 36 megabytes.
 
