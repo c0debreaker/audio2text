@@ -1,0 +1,357 @@
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : "we see"
+}
+{
+  "partial" : "we see"
+}
+{
+  "partial" : "we see because"
+}
+{
+  "partial" : "we see because"
+}
+{
+  "partial" : "we see the"
+}
+{
+  "partial" : "we see the"
+}
+{
+  "partial" : "we see the"
+}
+{
+  "partial" : "we see the consequences"
+}
+{
+  "partial" : "we see the consequences"
+}
+{
+  "partial" : "we see the consequences of"
+}
+{
+  "partial" : "we see the consequences of"
+}
+{
+  "partial" : "we see the consequences of"
+}
+{
+  "partial" : "we see the consequences of"
+}
+{
+  "partial" : "we see the consequences of"
+}
+{
+  "partial" : "we see the consequences of"
+}
+{
+  "partial" : "we see the consequences of"
+}
+{
+  "partial" : "we see the consequences of silence"
+}
+{
+  "partial" : "we see the consequences of silence"
+}
+{
+  "partial" : "we see the consequences of silence"
+}
+{
+  "partial" : "we see the consequences of silence"
+}
+{
+  "partial" : "we see the consequences of silence"
+}
+{
+  "partial" : "we see the consequences of silence"
+}
+{
+  "partial" : "we see the consequences of silence"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves and"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves and"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves and"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form and"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form and"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.690000,
+      "start" : 0.540000,
+      "word" : "we"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.690000,
+      "word" : "see"
+    }, {
+      "conf" : 1.000000,
+      "end" : 0.870000,
+      "start" : 0.780000,
+      "word" : "the"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.590000,
+      "start" : 0.870000,
+      "word" : "consequences"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.680000,
+      "start" : 1.590000,
+      "word" : "of"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.190000,
+      "start" : 1.710000,
+      "word" : "silence"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.730000,
+      "start" : 2.220000,
+      "word" : "manifest"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.730000,
+      "word" : "themselves"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.360000,
+      "start" : 3.270000,
+      "word" : "in"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.420000,
+      "start" : 3.360000,
+      "word" : "the"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.690000,
+      "start" : 3.420000,
+      "word" : "form"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.750000,
+      "start" : 3.690000,
+      "word" : "of"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 3.750000,
+      "word" : "discrimination"
+    }],
+  "text" : "we see the consequences of silence manifest themselves in the form of discrimination"
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : ""
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence"
+}
+{
+  "partial" : "violence genocide"
+}
+{
+  "partial" : "violence genocide"
+}
+{
+  "partial" : "violence genocide"
+}
+{
+  "partial" : "violence genocide"
+}
+{
+  "partial" : "violence genocide in"
+}
+{
+  "partial" : "violence genocide in"
+}
+{
+  "partial" : "violence genocide in"
+}
+{
+  "partial" : "violence genocide and"
+}
+{
+  "partial" : "violence genocide and"
+}
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 5.670000,
+      "start" : 5.040000,
+      "word" : "violence"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.840000,
+      "start" : 6.030000,
+      "word" : "genocide"
+    }, {
+      "conf" : 0.973229,
+      "end" : 7.290000,
+      "start" : 7.140000,
+      "word" : "in"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.620000,
+      "start" : 7.290000,
+      "word" : "war"
+    }],
+  "text" : "violence genocide in war"
+}
